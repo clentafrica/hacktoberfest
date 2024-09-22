@@ -9,9 +9,9 @@ We’re excited to welcome you to contribute to **Hacktoberfest 2024** with **CL
 CLENT Africa is dedicated to fostering sustainable development across Africa through a multifaceted approach that includes climate change education, environmental health, renewable energy initiatives, research and data, disability & gender equality advocacy, and environmental conservation. We are committed to making a positive impact across the continent by using **open-source technology** to foster innovation and drive change.  
 Now, we’re calling on the community to help us take these projects to new heights!
 
-Explore our project repositories on GitHub:
+Explore our various repositories on GitHub:
 
-- **Project**: [CLENT Africa GitHub Repository](https://github.com/clentafrica)
+- **Project**: [CLENT Africa GitHub Repository](https://github.com/orgs/clentafrica/repositories)
 
 Connect with us on social media:
 
@@ -37,9 +37,9 @@ Absolutely **anyone** can contribute! 🔥
 
 ## Why Should You Contribute?
 
-- We’re **beginner-friendly**—offering tutorials and guidance to help you get started.
+- We’re **beginner-friendly**
 - Gain valuable experience by contributing to a **live, real-world open-source project**.
-- **Collaborate** with a diverse and welcoming community while honing your skills in Python, React, and more.
+- **Collaborate** with a diverse and welcoming community while honing your skills in code and no-code contributions.
 - Your contributions will have a **direct impact** on the environment.
 
 ---
