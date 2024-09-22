@@ -2,7 +2,7 @@
 
 # Join CLENT Africa this Hacktoberfest! 🚀
 
-We’re excited to welcome you to contribute to **Hacktoberfest 2024** with **CLENT Africa**! Whether you’re a developer, no-code enthusiast, or passionate community builder, there’s a place for you. Plus, we’re gearing up to participate in **Google Summer of Code (GSoC) 2025**, and we’re seeking **mentors** who can guide aspiring open-source contributors!
+We’re excited to welcome you to contribute to **Hacktoberfest 2024** with **CLENT Africa**! Whether you’re a developer, no-code enthusiast, or passionate community builder, there’s a place for you. Plus, we’re gearing up to participate in **[Google Summer of Code (GSoC) 2025](https://github.com/clentafrica/gsoc)**, and we’re seeking **mentors** who can guide aspiring open-source contributors!
 
 ## About CLENT Africa
 
@@ -20,6 +20,7 @@ Connect with us on social media:
 - **YouTube**: [CLENT Africa](https://www.youtube.com/@clentafrica)
 - **Instagram**: [CLENT Africa](https://www.instagram.com/clentafrica)
 - **Facebook**: [CLENT Africa](https://www.facebook.com/clentafrica)
+- **Discord**: [CLENT Africa](https://discord.gg/u5yWdGNmyR)
 
 ---
 
@@ -30,7 +31,7 @@ Absolutely **anyone** can contribute! 🔥
 - **No-code contributors**: Review our demo, proofread our documentation, or help enhance the user experience with feedback.
 - **Developers**: We have tasks ranging from backend (Python) to frontend (React) development, all waiting for your expertise.
 - **Community Managers**: Help us grow the community, manage social media engagement, and onboard new contributors.
-- **GSoC Mentors**: If you’re experienced in open-source and mentoring, join us in guiding the next generation through **Google Summer of Code 2025**.
+- **GSoC Mentors**: If you’re experienced in open-source and mentoring, join us in guiding the next generation through **[Google Summer of Code 2025](https://github.com/clentafrica/gsoc)**.
 
 ---
 
